@@ -1,0 +1,1 @@
+SB-06 machine identity probe. Not the pilot marker.
